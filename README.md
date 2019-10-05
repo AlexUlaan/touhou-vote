@@ -1,6 +1,6 @@
 # touhou-vote
 ## 东方人气投票数据分析数据
-这里是宇岚hoshi从国内东方人气投票获取的分析数据。<br><br>
+这里是宇岚hoshi从国内东方人气投票（http://touhou.vote/ ）获取的分析数据。<br><br>
 这里也将作为今后数据分析代码及数据集的开源网址，敬请期待（明示star）<br><br>
 ## TODO list:
 ### 数据：
